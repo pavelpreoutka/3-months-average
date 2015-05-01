@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/23/2015 8:02:44 AM"
+  DTS:CreationName="SSIS.Package.3"
+  DTS:CreatorComputerName="BILLINGREPORTS"
+  DTS:CreatorName="CORALWIRELESS\sql.billing"
+  DTS:DTSID="{F7E1F8BB-37EC-47DB-B2BC-0378D7BF43E7}"
+  DTS:ExecutableType="SSIS.Package.3"
+  DTS:LastModifiedProductVersion="11.0.3402.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{50017FC7-6368-4336-8037-7DF62011B5AC}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">6</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
